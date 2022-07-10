@@ -1,0 +1,18 @@
+{ 
+    "mainTitleBlock": "Чем бы мне сегодня занятся?",
+    "deletedTasks": "Удаленные задачи",
+    "doneTasks": "Выполненные задачи",
+
+    "HighPriority": "Высокий",
+    "MediumPriority": "Средний",
+    "LowPriority": "Низкий",
+    "High": "Высокий",
+    "Medium": "Средний",
+    "Low": "Низкий",
+
+    "confirmAlert": "Ты её сделал, шоб щас удалять?",
+
+    "delete": "Удалить",
+    "save": "Сохранить",
+    "edit": "Изменить"
+}

@@ -1,0 +1,17 @@
+{ 
+    "mainTitleBlock": "What would I be doing today?",
+    "deletedTasks": "Deleted tasks",
+    "doneTasks": "Done tasks",
+
+    "HighPriority": "High",
+    "MediumPriority": "Medium",
+    "LowPriority": "Low",
+    "High": "High",
+    "Medium": "Medium",
+    "Low": "Low",
+
+    "confirmAlert": "Did you make it so you can delete it now?",
+    "delete": "Delete",
+    "save": "Save",
+    "edit": "Edit"
+}

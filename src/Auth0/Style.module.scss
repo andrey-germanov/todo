@@ -1,0 +1,11 @@
+.userInfo{
+    display: flex;
+    gap: 10px;
+    img{
+        width: 50px;
+        border-radius: 1000px;
+    }
+    h2,p{
+        display: block;
+    }
+}
